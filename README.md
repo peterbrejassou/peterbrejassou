@@ -3,8 +3,6 @@
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://peterbrejassou.fr](https://peterbrejassou.fr)
 
-- 💬 Demandez moi **ce que vous voulez, je suis curieux**
-
 - 📫 Pour me contacter : **contact@peterbrejassou.fr**
 
 <h3 align="left">Mes réseaux :</h3>
